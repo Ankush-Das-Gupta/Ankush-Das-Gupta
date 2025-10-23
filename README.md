@@ -3,7 +3,7 @@
 # 💫 Hi 👋, I'm Ankush Dasgupta
 **A passionate Cyber Security Engineer**
 
-Email Me 👉 ✉️ **ankushdasgupta182gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **ankushdasgupta18@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankush-dasgupta) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Ankush Dasgupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankushdasgupta18@gmail.com) 
