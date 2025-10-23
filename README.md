@@ -25,7 +25,7 @@ Email Me 👉 ✉️ **ankushdasgupta18@gmail.com** For Collaboration/Project or
 
 - 🧑‍🎓 I’m currently pursuing  **Diploma in Cyber Security Engineering**
 
-- 👨‍💻 All of my projects are available at [[https://dhrubojyotidev.netlify.app](https://github.com/Ankush-Das-Gupta?tab=repositories)/](https://github.com/Ankush-Das-Gupta?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Ankush-Das-Gupta?tab=repositories](https://github.com/Ankush-Das-Gupta?tab=repositories)
 
 - 📫 How to reach me **ankushdasgupta18@gmail.com**
 
