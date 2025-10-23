@@ -21,6 +21,13 @@ Email Me 👉 ✉️ **ankushdasgupta18@gmail.com** For Collaboration/Project or
 <img align="right" alt="ironman" width="300" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png">
 
 
+<h2 align="left">🔸 About Me</h2>
+
+- 🧑‍🎓 I’m currently pursuing  **Diploma in Cyber Security Engineering**
+
+- 👨‍💻 All of my projects are available at [[https://dhrubojyotidev.netlify.app](https://github.com/Ankush-Das-Gupta?tab=repositories)/](https://github.com/Ankush-Das-Gupta?tab=repositories)
+
+- 📫 How to reach me **ankushdasgupta18@gmail.com**
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
