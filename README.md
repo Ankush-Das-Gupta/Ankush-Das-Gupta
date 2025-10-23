@@ -16,7 +16,7 @@ Email Me 👉 ✉️ **ankushdasgupta18@gmail.com** For Collaboration/Project or
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dhrubojyot&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies"/> </div>
 
-<p align="left"> <a href="https://twitter.com/dhrubojyoticha9" target="blank"> alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dhrubojyoticha9" target="blank"> </a> </p>
 
 <img align="right" alt="ironman" width="300" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png">
 
