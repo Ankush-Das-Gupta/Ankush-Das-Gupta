@@ -21,7 +21,7 @@ Email Me 👉 ✉️ **ankushdasgupta18@gmail.com** For Collaboration/Project or
 <img align="right" alt="ironman" width="300" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png">
 
 
-<h align="left">🔸 About Me</h>
+<h2 align="left">🔸 About Me</h2>
 
 - 🧑‍🎓 I’m currently pursuing  **Diploma in Cyber Security Engineering**
 
