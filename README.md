@@ -33,24 +33,18 @@ Email Me 👉 ✉️ **ankushdasgupta18@gmail.com** For Collaboration/Project or
 
 <h2 align="left">🔸 Connect With Me</h2>
 <div align="left">
-  <a href="https://www.linkedin.com/in/dhrubojyoti-chakraborty-567857257/" target="_blank">
+  <a href="www.linkedin.com/in/ankush-dasgupta-52b70a336" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="100" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/i_am_dhrubojyoti_chakraborty/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="100" alt="instagram logo"  />
-  </a>
+
 <!--   <a href="https://linktr.ee/Dhrubojyoti_Chakraborty" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a> -->
-  <a href="https://www.facebook.com/dhrubojyoti.chakraborty.14/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" height="100" alt="facebook logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=919330857191" target="_blank">
+
+  <a href="https://api.whatsapp.com/send?phone=9073780493" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" height="100" alt="whatsapp logo"  />
   </a>
-  <a href="https://x.com/DhrubojyotiCha9" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="100" alt="twitter logo"  />
-  </a>
+
 <!--   <a href="mailto:dhrubojyotichakraborty69@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a> -->
