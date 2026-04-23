@@ -52,7 +52,7 @@ Email Me 👉 ✉️ **ankushdasgupta18@gmail.com** For Collaboration/Project or
 
 <h2 align="left">🔸 Contribution Graph</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankush Dasgupta's&bg_color=0d1117&color=daa520&line=39ff14&point=39ff14&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkushDasgupta's&bg_color=0d1117&color=daa520&line=39ff14&point=39ff14&area=true&hide_border=true" />
 </div>
 
 
