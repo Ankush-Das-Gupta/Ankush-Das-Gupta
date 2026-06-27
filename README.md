@@ -14,8 +14,6 @@ Email Me 👉 ✉️ **ankushdasgupta18@gmail.com** For Collaboration/Project or
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrubojyot&label=Profile%20views&color=0e75b6&style=flat" alt="dhrubojyot" /> </p>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dhrubojyot&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies"/> </div>
-
 <p align="left"> <a href="https://twitter.com/dhrubojyoticha9" target="blank"> </a> </p>
 
 <img align="right" alt="ironman" width="300" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png">
