@@ -6,7 +6,7 @@
 Email Me 👉 ✉️ **ankushdasgupta18@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankush-dasgupta) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Ankush Dasgupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankushdasgupta18@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankush-dasgupta) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/AnkushDasgupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankushdasgupta18@gmail.com) 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="gradient line" width="100%" height="15px">
 </p>
