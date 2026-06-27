@@ -16,7 +16,7 @@ Email Me 👉 ✉️ **ankushdasgupta18@gmail.com** For Collaboration/Project or
 
 <p align="left"> <a href="https://twitter.com/dhrubojyoticha9" target="blank"> </a> </p>
 
-<img align="right" alt="ironman" width="300" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png">
+
 
 
 <h2 align="left">🔸 About Me</h2>
